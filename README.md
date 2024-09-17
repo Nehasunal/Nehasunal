@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NehaSunal&color=blue&style=flat)
 
 ## 🚀 About Me
-I’m a **Senior Software Engineer** with 4+ years of experience in crafting seamless web applications and solving complex challenges. Check out my portfolio for a deeper look into my work!
+I’m a **Senior Software Engineer** with 4+ years of experience in crafting seamless web applications and solving complex challenges.
 
 - 💻 Currently working with **Node.js**, **PostgreSQL**, **AWS** (S3, Lambda), and **Angular**.
 - 🌱 Always eager to learn and explore new challenges.
