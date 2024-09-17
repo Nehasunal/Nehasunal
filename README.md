@@ -20,5 +20,6 @@ I’m a **Senior Software Engineer** with 4+ years of experience in crafting sea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaSunal&layout=compact&theme=radical)
 
 ## 📝 My Articles
+- [Beginner Kafka Implementation in Node.js with Docker](https://medium.com/@nehasunal/beginner-kafka-implementation-in-node-js-with-docker-6445e3436786)
 - [NodeJS Express REST API to Upload Image using Multer(PostgreSQL)](https://medium.com/@nehasunal/how-to-build-nodejs-express-rest-api-to-upload-image-using-multer-postgresql-d9ac5ae8eab)
 
