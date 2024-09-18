@@ -10,7 +10,6 @@ I’m a **Senior Software Engineer** with 4+ years of experience in crafting sea
 - 🎨 Visit my portfolio to see my skills, projects, and resume: **[My Portfolio](https://bot-portfolio-neha.netlify.app/)**.
 - 🤝 I’m open to collaborating on exciting projects.
 - 📫 How to reach me: [nehameandev@gmail.com](mailto:nehameandev@gmail.com).
-- ⚡ Fun fact: Chess enthusiast!
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nehasunal)
