@@ -1,7 +1,5 @@
 # Hey there 👋 I’m Neha Sunal
 
-![Profile Views](https://komarev.com/ghpvc/?username=NehaSunal&color=blue&style=flat)
-
 ## 🚀 About Me
 I’m a **Senior Software Engineer** with 4+ years of experience in crafting seamless web applications and solving complex challenges.
 
