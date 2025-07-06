@@ -1,7 +1,7 @@
 # Hey there 👋 I’m Neha Sunal
 
 ## 🚀 About Me
-I’m a **Senior Software Engineer** with 4+ years of experience in crafting seamless web applications and solving complex challenges.
+I’m a **Senior Software Engineer** with 5 years of experience in crafting seamless web applications and solving complex challenges.
 
 - 💻 Currently working with **Node.js**, **PostgreSQL**, **AWS** (S3, Lambda), **React** and **Angular**.
 - 🌱 Always eager to learn and explore new challenges.
@@ -15,6 +15,10 @@ I’m a **Senior Software Engineer** with 4+ years of experience in crafting sea
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaSunal&layout=compact&theme=radical)
+
+## 📦 Published Packages
+- [`indian-bank-ifsc`](https://www.npmjs.com/package/indian-bank-ifsc) – Validate & fetch Indian bank IFSC details from RBI dataset.
+
 
 ## 📝 My Articles
 - [A Beginner’s Guide to Building a Real-Time Collaborative Text Editor with Angular, Node.js, Socket.io](https://medium.com/@nehasunal/a-beginners-guide-to-building-a-real-time-collaborative-text-editor-with-angular-node-js-b5c635e173a3)
