@@ -6,7 +6,6 @@ I’m a **Senior Software Engineer** with 5 years of experience in crafting seam
 - 💻 Currently working with **Node.js**, **PostgreSQL**, **AWS** (S3, Lambda).
 - 🌱 Always eager to learn and explore new challenges.
 - 🎨 Visit my portfolio to see my skills, projects, and resume: **[My Portfolio](https://bot-portfolio-neha.netlify.app/)**.
-- 🤝 I’m open to collaborating on exciting projects.
 - 📫 How to reach me: [nehameandev@gmail.com](mailto:nehameandev@gmail.com).
 
 ## 🔗 Connect with me
